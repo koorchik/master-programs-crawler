@@ -1151,8 +1151,8 @@
       "AI Management",
       "Digital Innovation Management",
       "Digital Marketing",
-      "Data Visualisation (sponsored by Deloitte)",
-      "Ethics in Digital Business",
+      "Data Visualisation (sponsored by Deloitte)",
+      "Ethics in Digital Business",
       "Value of Data in Digital Business",
       "Employability & Careers"
     ]
@@ -1447,12 +1447,12 @@
     "organisation": "Kogod School of Business, American University Washington DC",
     "programStructure": [
       "Applied Managerial Statistics",
-      "Management Information Systems &nbsp;",
-      "Database and Big Data &nbsp;",
+      "Management Information Systems",
+      "Database and Big Data",
       "Analytics Foundation",
-      "Business Insights through Analytics &nbsp;",
-      "Predictive Analytics &nbsp;",
-      "Business Intelligence &nbsp;"
+      "Business Insights through Analytics",
+      "Predictive Analytics",
+      "Business Intelligence"
     ]
   },
   {
@@ -2006,9 +2006,9 @@
     },
     "organisation": "University of the West of England (UWE Bristol)",
     "programStructure": [
-      "<strong>Research Design and Methodologies</strong> covers qualitative and quantitative research methods, their use and analysis.",
-      "<strong>Research in Context </strong>a subject specific module designed to develop your research skills through reviewing, evaluating and presenting independently generated research material relevant to your extended project. Includes library skills development.",
-      "<strong>Extended Research Project </strong>allows you to investigate a relevant research topic in detail, working with a research supervisor and drawing on the skills developed in the taught modules."
+      "Research Design and Methodologies covers qualitative and quantitative research methods, their use and analysis.",
+      "Research in Context a subject specific module designed to develop your research skills through reviewing, evaluating and presenting independently generated research material relevant to your extended project. Includes library skills development.",
+      "Extended Research Project allows you to investigate a relevant research topic in detail, working with a research supervisor and drawing on the skills developed in the taught modules."
     ]
   },
   {
@@ -3040,7 +3040,7 @@
       "Data Mining for Business and Governance",
       "Data Science Regulation and Law",
       "Statistics and Methodology",
-      "Data Processing &nbsp;",
+      "Data Processing",
       "Programming with R",
       "Data Processing Advanced"
     ]
@@ -3327,7 +3327,7 @@
     },
     "organisation": "EURECOM Study Track",
     "programStructure": [
-      "Systems and mathematical methods  &nbsp;",
+      "Systems and mathematical methods",
       "Computer architecture",
       "Theory Game Theory",
       "Image Coding",
@@ -3358,7 +3358,7 @@
     "programStructure": [
       "Fundamentals of Information Systems",
       "Stochastic Methods",
-      "Statistical Learning &nbsp;",
+      "Statistical Learning",
       "Cognitive, Behavioral and Social Data",
       "Algorithmic Methods and Machine Learning",
       "Optimization for Data Science",
@@ -3463,8 +3463,8 @@
     "programStructure": [
       "Omics project (quantified self)",
       "Preparatory Course",
-      "Data Sciences  (exploration)",
-      "Programming  (design)",
+      "Data Sciences  (exploration)",
+      "Programming  (design)",
       "Research & professional skills"
     ]
   },
@@ -3683,7 +3683,7 @@
     "organisation": "IE Business School - Master programmes",
     "programStructure": [
       "Introduction to Big Data and Analytics",
-      "Marketing Intelligence&nbsp;",
+      "Marketing Intelligence",
       "Analytics for Retail & Consumer Goods",
       "Digital Analytics",
       "Smart Cities",
@@ -3711,7 +3711,7 @@
       "Statistics Basic",
       "SQL",
       "Data Analysis: Machine Learning",
-      "Decision Making: Applied Machine Learning",
+      "Decision Making: Applied Machine Learning",
       "Discrete Mathematics",
       "Calculus"
     ]
@@ -3955,11 +3955,11 @@
     },
     "organisation": "Université Côte d'Azur",
     "programStructure": [
-      "Human Health – Agro-environment&nbsp;",
+      "Human Health – Agro-environment",
       "Quality in Biobanking",
       "Ethics, legislation and social issues",
       "Hygiene and Security",
-      "Management and Project Management&nbsp;"
+      "Management and Project Management"
     ]
   },
   {
@@ -3981,7 +3981,7 @@
       "Biophysics",
       "Advanced cell and tissue biology",
       "Cancer systems biology",
-      "Computational biology for the biology of aging&nbsp;",
+      "Computational biology for the biology of aging",
       "Formal and computational approaches for single cell biology"
     ]
   },
@@ -4199,7 +4199,7 @@
     "organisation": "University of Leeds",
     "programStructure": [
       "Data Science",
-      "Learning Skills through Case Studies&nbsp;",
+      "Learning Skills through Case Studies",
       "Dissertation in Data Science and Analytics",
       "Distributed Systems",
       "Machine Learning",
@@ -4237,15 +4237,15 @@
     },
     "organisation": "Norwegian University of Life Sciences (NMBU)",
     "programStructure": [
-      "Data analysis and statistics  &nbsp; &nbsp; &nbsp;&nbsp;",
+      "Data analysis and statistics",
       "Image Analysis",
       "Machine Learning and Deep Learning",
       "Regression",
       "Applied methods in statistics",
-      "Theoretical statistics  &nbsp; &nbsp; &nbsp;",
+      "Theoretical statistics",
       "Theoretical statistics",
       "Selected topics in Statistics",
-      "Statistical Programming  &nbsp;"
+      "Statistical Programming"
     ]
   },
   {
@@ -4849,23 +4849,23 @@
     },
     "organisation": "Data ScienceTech Institute",
     "programStructure": [
-      "<strong>Amazon AWS </strong><strong>Preparation for AWS Certified Solutions Architect – Associate</strong>",
-      "<strong>Analysis and Design of Information Systems</strong>",
-      "<strong>Data Wrangling backed with MS SQL Server</strong>",
-      "<strong>Integrating Semantic Web technologies in Data Science developments</strong>",
-      "<strong>Time-Series Analysis using SAS</strong>",
-      "<strong>Survival Analysis using R</strong>",
-      "<strong>IT Project Management: PMP-PMI and Agile Approaches</strong>",
-      "<strong>Agent-Based Modelling for population behaviour</strong>",
-      "<strong>Modelling complex and chaotic economic systems with System Dynamics</strong>",
-      "<strong>Data ownership and protection laws and regulation</strong>",
-      "<strong>Applied Mathematics for Data Science</strong>",
-      "<strong>Algorithmics for Data Science – Optimisation</strong>",
-      "<strong>Foundations of Statistical Analysis and Machine Learning</strong>",
-      "<strong>Advanced Statistical Analysis and Machine Learning</strong>",
-      "<strong>Artificial Neural Network and introduction to Deep Learning</strong>",
-      "<strong>SAS - Preparation for SAS Certified Predictive Modeler certification</strong>",
-      "<strong>The Hadoop & SPARK ecosystem</strong>"
+      "Amazon AWS Preparation for AWS Certified Solutions Architect – Associate",
+      "Analysis and Design of Information Systems",
+      "Data Wrangling backed with MS SQL Server",
+      "Integrating Semantic Web technologies in Data Science developments",
+      "Time-Series Analysis using SAS",
+      "Survival Analysis using R",
+      "IT Project Management: PMP-PMI and Agile Approaches",
+      "Agent-Based Modelling for population behaviour",
+      "Modelling complex and chaotic economic systems with System Dynamics",
+      "Data ownership and protection laws and regulation",
+      "Applied Mathematics for Data Science",
+      "Algorithmics for Data Science – Optimisation",
+      "Foundations of Statistical Analysis and Machine Learning",
+      "Advanced Statistical Analysis and Machine Learning",
+      "Artificial Neural Network and introduction to Deep Learning",
+      "SAS - Preparation for SAS Certified Predictive Modeler certification",
+      "The Hadoop & SPARK ecosystem"
     ]
   },
   {
@@ -5315,7 +5315,7 @@
     },
     "organisation": "Technical University of Munich",
     "programStructure": [
-      "The curriculum comprises mandatory courses on Data Analysis and Data Engineering. Advanced lectures are offered in these area of studies: Data Engineering contains lectures about distributes systems, distributed databases, query optimization, database systems on modern CPU architectures and high performance computing. &nbsp;",
+      "The curriculum comprises mandatory courses on Data Analysis and Data Engineering. Advanced lectures are offered in these area of studies: Data Engineering contains lectures about distributes systems, distributed databases, query optimization, database systems on modern CPU architectures and high performance computing.",
       "Data Engineering and Analytics offers lectures about machine learning, business analytics, computer vision and scientific visualization. Data Analysis is concerned with topics that require solid mathematical foundations: Fundamentals of Convex Optimization, Computational Statistics and more."
     ]
   },
@@ -5433,26 +5433,26 @@
     },
     "organisation": "Data ScienceTech Institute",
     "programStructure": [
-      "<strong>Relational Databases Management Systems</strong>",
-      "<strong>Advanced SQL for Data Wrangling</strong>",
-      "<strong>NoSQL databases</strong>",
-      "<strong>The Hadoop Ecosystem</strong>",
-      "<strong>Data Pipeline</strong>",
-      "<strong>Foundations of Statistical Analysis & Machine Learning</strong>",
-      "<strong>Machine Learning with Python</strong>",
-      "<strong>Machine Learning with R</strong>",
-      "<strong>Deep Learning on GPU </strong>",
-      "<strong>C & C ++ for Distributed Computing</strong>",
-      "<strong>Java & Scala programming</strong>",
-      "<strong>Microsoft .NET for Distributed Computing</strong>",
-      "<strong>Scientific Programming</strong>",
-      "<strong>Design of Information Systems</strong>",
-      "<strong>Software Engineering Project Management & Quality</strong>",
-      "<strong>DevOps & Continuous Integration</strong>",
-      "<strong>Cybersecurity</strong>",
-      "<strong>Amazon AWZ & Microsoft Azure</strong>",
-      "<strong>Semantic Web</strong>",
-      "<strong>IT Foundations for Data Engineering</strong>"
+      "Relational Databases Management Systems",
+      "Advanced SQL for Data Wrangling",
+      "NoSQL databases",
+      "The Hadoop Ecosystem",
+      "Data Pipeline",
+      "Foundations of Statistical Analysis & Machine Learning",
+      "Machine Learning with Python",
+      "Machine Learning with R",
+      "Deep Learning on GPU",
+      "C & C ++ for Distributed Computing",
+      "Java & Scala programming",
+      "Microsoft .NET for Distributed Computing",
+      "Scientific Programming",
+      "Design of Information Systems",
+      "Software Engineering Project Management & Quality",
+      "DevOps & Continuous Integration",
+      "Cybersecurity",
+      "Amazon AWZ & Microsoft Azure",
+      "Semantic Web",
+      "IT Foundations for Data Engineering"
     ]
   },
   {
@@ -5673,7 +5673,7 @@
     },
     "organisation": "Wittenberg University",
     "programStructure": [
-      "Design Challenges of Wicked Data Problems &nbsp;",
+      "Design Challenges of Wicked Data Problems",
       "Advanced Statistics and Modeling",
       "Business Intelligence and Analytics Fundamentals",
       "Data Mining",
@@ -5734,13 +5734,13 @@
     },
     "organisation": "University of Liverpool",
     "programStructure": [
-      "<p>Research Methods In Computer Science </p>",
-      "<p>Applied Algorithmics </p>",
-      "<p>Data Mining and Visualisation </p>",
-      "<p>Multi-core and Multi-processor Programming </p>",
-      "<p>Big Data Analysis</p>",
-      "<p>Big Data Group Project</p>",
-      "<p>Optimisation </p>"
+      "Research Methods In Computer Science",
+      "Applied Algorithmics",
+      "Data Mining and Visualisation",
+      "Multi-core and Multi-processor Programming",
+      "Big Data Analysis",
+      "Big Data Group Project",
+      "Optimisation"
     ]
   },
   {
@@ -5764,7 +5764,7 @@
       "Multivariate Statistics",
       "Advanced Data Mining",
       "Big Data",
-      "Data Science Project &nbsp;",
+      "Data Science Project",
       "Data Science Capstone Project"
     ]
   },
@@ -5859,10 +5859,10 @@
     },
     "organisation": "Birmingham City University",
     "programStructure": [
-      "<p>Modern Optimisation </p>",
+      "Modern Optimisation",
       "Applied Statistics",
       "Databases for Enterprise",
-      "Data Management&nbsp;",
+      "Data Management",
       "Data Mining",
       "Web Social Media Analytics and Visualisation",
       "Individual Master's Project"
@@ -5914,14 +5914,14 @@
     "organisation": "Contemporary Technology University",
     "programStructure": [
       "Python Foundations",
-      "Tools and Techniques&nbsp;for Data&nbsp;Science",
-      "Statistics and&nbsp;Probability",
+      "Tools and Techniques for Data Science",
+      "Statistics and Probability",
       "Data Cleaning",
       "Data Manipulation",
-      "<p>Data Visualisation</p>",
-      "<p>Machine Learning Fundamentals</p>",
-      "<p>Deep Learning</p>",
-      "<p>Data Algorithms and NLP</p>",
+      "Data Visualisation",
+      "Machine Learning Fundamentals",
+      "Deep Learning",
+      "Data Algorithms and NLP",
       "Capstone Project"
     ]
   },
@@ -7157,7 +7157,7 @@
       "Introduction to machine and statistical learning",
       "Introduction to data platforms and sources",
       "Introduction to Information Ethics for Big Data Science",
-      "Introduction to mathematical optimization for big data science&nbsp;",
+      "Introduction to mathematical optimization for big data science",
       "Big data",
       "Big data management"
     ]
@@ -7740,12 +7740,12 @@
     },
     "organisation": "Utah State University",
     "programStructure": [
-      "Python and Perl Programming  &nbsp;&nbsp;",
-      "ntroduction to R  &nbsp;&nbsp;",
+      "Python and Perl Programming",
+      "ntroduction to R",
       "Statistical Learning and Data Mining",
-      "Statistical Visualization  &nbsp;&nbsp;",
-      "Applied Econometrics  &nbsp;&nbsp;",
-      "Database Management  &nbsp;&nbsp;",
+      "Statistical Visualization",
+      "Applied Econometrics",
+      "Database Management",
       "Capstone Project in Internship in Data Analytics",
       "Data Cleansing",
       "Data Visualization"
@@ -7955,10 +7955,10 @@
     },
     "organisation": "Saint Mary's University",
     "programStructure": [
-      "Software Development in Business Environment",
+      "Software Development in Business Environment",
       "Statistics and Its Applications in Business",
       "Human Computer Interaction",
-      "Managing Information Technology and Systems",
+      "Managing Information Technology and Systems",
       "Data Mining"
     ]
   },
@@ -8163,7 +8163,7 @@
       "Model Identification and Data Fitting",
       "Algorithms for Big Data",
       "Planning and Scheduling",
-      "Research Project &nbsp;"
+      "Research Project"
     ]
   },
   {
@@ -8181,7 +8181,7 @@
       "Introduction To Data Analytics",
       "Statistical Methods In R",
       "Big Data Computing",
-      "Research Methods In Data Science&nbsp;",
+      "Research Methods In Data Science",
       "Data Mining",
       "Big Data Analysis",
       "Data Science Project"
@@ -8199,7 +8199,7 @@
     },
     "organisation": "Saint Mary's University",
     "programStructure": [
-      "Software Development in Business Environment &nbsp;",
+      "Software Development in Business Environment",
       "UI/UX Design and Evaluation",
       "Managing & Programming Databases",
       "Statistics and Its Applications in Business",
@@ -8259,7 +8259,7 @@
     },
     "organisation": "Vrije Universiteit Amsterdam",
     "programStructure": [
-      "In the first period you will learn the basics of linguistics and programming in Python for Text Analysis. We offer a master degree in Linguistics - Text Mining at Vrije Universiteit Amsterdam.&nbsp;",
+      "In the first period you will learn the basics of linguistics and programming in Python for Text Analysis. We offer a master degree in Linguistics - Text Mining at Vrije Universiteit Amsterdam.",
       "The second period brings you more specialized knowledge and skills: we will show you how to look at language as data and you will learn to use methods and tools for the processing of language in the course NLP Foundations.",
       "In period three and four you will really dive into text mining. In Applied Text Mining we will give you hands-on experience to build what we call a reading machine. In Text Mining in Domains you will apply your newly acquired knowledge in your professional domain. At the same time you will follow a course in Machine Learning, especially for working with language.",
       "You will write your thesis in the last two periods, most likely based on an internship."
@@ -8425,13 +8425,13 @@
     },
     "organisation": "Vrije Universiteit Amsterdam",
     "programStructure": [
-      "Logical Verification &nbsp;",
-      "Term Rewriting Systems &nbsp;",
-      "Distributed Algorithms &nbsp;",
-      "Advanced Logic &nbsp;",
-      "Protocol Validation &nbsp;",
-      "Coding and Cryptography &nbsp;",
-      "Experimental Design and Data Analysis &nbsp;"
+      "Logical Verification",
+      "Term Rewriting Systems",
+      "Distributed Algorithms",
+      "Advanced Logic",
+      "Protocol Validation",
+      "Coding and Cryptography",
+      "Experimental Design and Data Analysis"
     ]
   },
   {
@@ -8639,11 +8639,11 @@
     },
     "organisation": "Utica College",
     "programStructure": [
-      "<strong>Social Science Analytics</strong>: This specialization focuses on the application of data science to social science research and policy development.",
-      "<strong>Business Analytics</strong>: Explore how data science is applied to business management and decision-making.",
-      "<strong>Cybersecurity</strong>: Designed for students who want to apply their data science knowledge and skills in state-of-the-art cybersecurity and computer forensic practices with coursework on leadership and planning adapted specifically to the cyberspace realm.",
-      "<strong>Financial Crime</strong>: Designed for students who want to apply their data science knowledge and skills to advance their competencies in managing corporate and advanced technological resources devoted to combating economic crime.",
-      "<strong>General</strong>: Students also have the option to build their own specialization focus by selecting any four 3-credit graduate level courses available with approval from the Program Director."
+      "Social Science Analytics: This specialization focuses on the application of data science to social science research and policy development.",
+      "Business Analytics: Explore how data science is applied to business management and decision-making.",
+      "Cybersecurity: Designed for students who want to apply their data science knowledge and skills in state-of-the-art cybersecurity and computer forensic practices with coursework on leadership and planning adapted specifically to the cyberspace realm.",
+      "Financial Crime: Designed for students who want to apply their data science knowledge and skills to advance their competencies in managing corporate and advanced technological resources devoted to combating economic crime.",
+      "General: Students also have the option to build their own specialization focus by selecting any four 3-credit graduate level courses available with approval from the Program Director."
     ]
   },
   {
@@ -9586,10 +9586,10 @@
     "organisation": "University of Warsaw",
     "programStructure": [
       "Algorithms for Data Science",
-      "Statistics and Exploratory Data Analysis",
+      "Statistics and Exploratory Data Analysis",
       "Introduction to Data Science",
       "Unsupervised Learning",
-      "Webscraping and Social Media Scraping"
+      "Webscraping and Social Media Scraping"
     ]
   },
   {
@@ -10528,14 +10528,14 @@
     "organisation": "Vilnius University",
     "programStructure": [
       "Multivariate Statistics",
-      "Parametric and Nonparametric Econometrics",
+      "Parametric and Nonparametric Econometrics",
       "Microeconomic Analysis",
       "Modern Mathematical Economics",
       "Panel Data Econometrics",
       "Statistics of Random Functions",
       "Financial Econometrics",
       "Bayesian Econometrics",
-      "Econometric Analysis of Industrial Organization"
+      "Econometric Analysis of Industrial Organization"
     ]
   },
   {
@@ -10934,14 +10934,14 @@
     "organisation": "Contemporary Technology University",
     "programStructure": [
       "Python Foundations",
-      "Tools and Techniques&nbsp;for Data&nbsp;Science",
-      "Statistics and&nbsp;Probability",
+      "Tools and Techniques for Data Science",
+      "Statistics and Probability",
       "Data Cleaning",
       "Data Manipulation",
-      "<p>Data Visualisation</p>",
-      "<p>Machine Learning Fundamentals</p>",
-      "<p>Reinforcement Learning</p>",
-      "<p>Artificial Intelligence with TenserFlow</p>",
+      "Data Visualisation",
+      "Machine Learning Fundamentals",
+      "Reinforcement Learning",
+      "Artificial Intelligence with TenserFlow",
       "Capstone Project"
     ]
   },
@@ -11063,7 +11063,7 @@
     },
     "organisation": "University of Massachusetts Lowell",
     "programStructure": [
-      "Database Management&nbsp;",
+      "Database Management",
       "Business Intelligence and Data Mining",
       "Data Engineering for Business Analytics",
       "Statistics for Predictive Analytics",
@@ -11202,7 +11202,7 @@
       "Large-Scale Data Storage Systems",
       "Machine Learning",
       "Data Science Project for Computer Scientists",
-      "Cyber Security Essentials &nbsp;",
+      "Cyber Security Essentials",
       "Pervasive Application Development",
       "Encryption and Authentication",
       "Semantic Web",
@@ -11595,10 +11595,10 @@
     },
     "organisation": "University of Pennsylvania",
     "programStructure": [
-      "<p>Big Data Analysis</p>",
-      "<p>Applications of Urban Spatial Analysis</p>",
-      "<p>Capstone Project</p>",
-      "<p>Javascript Programming for Planning</p>"
+      "Big Data Analysis",
+      "Applications of Urban Spatial Analysis",
+      "Capstone Project",
+      "Javascript Programming for Planning"
     ]
   },
   {
@@ -11789,24 +11789,24 @@
     },
     "organisation": "University of Sheffield",
     "programStructure": [
-      "<p>Network and Inter-Network Architectures</p>",
-      "<p>Network Performance Analysis</p>",
-      "<p>Data Coding Techniques for Communications and Storage</p>",
-      "<p>Advanced Communication Principles</p>",
-      "<p>Mobile Networks and Physical Layer Protocols</p>",
-      "<p>(either) Foundations of Object-Orientated Programming (or) Object-Orientated Programming and Software Design</p>",
-      "<p>Major Research Project</p>",
-      "<p>Computer Security and Forensics</p>",
-      "<p>3D Computer Graphics</p>",
-      "<p>Software Development for Mobile Devices</p>",
-      "<p>Cloud Computing</p>",
-      "<p>Advanced Signal Processing</p>",
-      "<p>Antennas, Propagation and Satellite Systems</p>",
-      "<p>Optical Communication Devices and Systems</p>",
-      "<p>Computer Vision</p>",
-      "<p>Broadband Wireless Techniques</p>",
-      "<p>Wireless Packet Data Networks and Protocols</p>",
-      "<p>System Design</p>"
+      "Network and Inter-Network Architectures",
+      "Network Performance Analysis",
+      "Data Coding Techniques for Communications and Storage",
+      "Advanced Communication Principles",
+      "Mobile Networks and Physical Layer Protocols",
+      "(either) Foundations of Object-Orientated Programming (or) Object-Orientated Programming and Software Design",
+      "Major Research Project",
+      "Computer Security and Forensics",
+      "3D Computer Graphics",
+      "Software Development for Mobile Devices",
+      "Cloud Computing",
+      "Advanced Signal Processing",
+      "Antennas, Propagation and Satellite Systems",
+      "Optical Communication Devices and Systems",
+      "Computer Vision",
+      "Broadband Wireless Techniques",
+      "Wireless Packet Data Networks and Protocols",
+      "System Design"
     ]
   },
   {
@@ -11882,12 +11882,12 @@
     },
     "organisation": "Mahidol University",
     "programStructure": [
-      "Medical statistics in clinical research  &nbsp;&nbsp;",
-      "Advanced statistical analysis in clinical research  &nbsp;&nbsp;",
-      "Health informatics and health information technology  &nbsp;&nbsp;",
-      "Data mining and machine learning  &nbsp;&nbsp;",
-      "Business intelligence  &nbsp;&nbsp;",
-      "Principles and concepts of health systems  &nbsp;&nbsp;"
+      "Medical statistics in clinical research",
+      "Advanced statistical analysis in clinical research",
+      "Health informatics and health information technology",
+      "Data mining and machine learning",
+      "Business intelligence",
+      "Principles and concepts of health systems"
     ]
   },
   {
@@ -11905,7 +11905,7 @@
       "Probability",
       "Inference",
       "Linear Regression Models",
-      "Advanced Data Analysis  OR",
+      "Advanced Data Analysis  OR",
       "Advanced Machine Learning"
     ]
   },
@@ -13091,12 +13091,12 @@
     },
     "organisation": "Kingston University",
     "programStructure": [
-      "<p>Data Communications</p>",
-      "<p>Wireless Communications and Networks</p>",
-      "<p>Network and Information Security</p>",
-      "<p>Multimedia Communications</p>",
-      "<p>Project Dissertation</p>",
-      "<p>Business in Practice</p>"
+      "Data Communications",
+      "Wireless Communications and Networks",
+      "Network and Information Security",
+      "Multimedia Communications",
+      "Project Dissertation",
+      "Business in Practice"
     ]
   },
   {
@@ -13393,13 +13393,13 @@
     "organisation": "Georgetown University",
     "programStructure": [
       "Introduction to Health Data Science & Analytics",
-      "Utilizing Data in Electronic Medical Records",
-      "Precision Health Informatics",
+      "Utilizing Data in Electronic Medical Records",
+      "Precision Health Informatics",
       "Evidence Based Data Analysis in Population Health",
       "Massive Data Fundamentals",
-      "Advanced topics in Health Informatics",
+      "Advanced topics in Health Informatics",
       "AI for Health Applications",
-      "Digital Health Applications"
+      "Digital Health Applications"
     ]
   },
   {
@@ -13712,8 +13712,8 @@
     },
     "organisation": "Kansas State University",
     "programStructure": [
-      "Introduction to Econometrics&nbsp;",
-      "Topics in Computer Science&nbsp;",
+      "Introduction to Econometrics",
+      "Topics in Computer Science",
       "Big Data Analytics",
       "Information Technology Strategy and Application",
       "Business Analytics and Data Mining",
@@ -13850,9 +13850,9 @@
     "organisation": "Queensland University of Technology",
     "programStructure": [
       "Programming Fundamentals",
-      "Data Manipulation&nbsp;",
-      "Fundamentals of Business Process Management&nbsp;",
-      "Statistical Data Analysis&nbsp;",
+      "Data Manipulation",
+      "Fundamentals of Business Process Management",
+      "Statistical Data Analysis",
       "Stochastic Modelling"
     ]
   },
@@ -13913,16 +13913,16 @@
       "Data Mining",
       "High Performance Computing",
       "Topics in Computer Science",
-      "Probability Theory&nbsp;",
-      "Statistical Inference&nbsp;",
-      "Introduction to Bioinformatics&nbsp;",
-      "Introduction to to R Programming&nbsp;",
+      "Probability Theory",
+      "Statistical Inference",
+      "Introduction to Bioinformatics",
+      "Introduction to to R Programming",
       "Software Engineering",
       "Digital Image Processing",
       "Data Mining",
       "High Performance Computing",
       "Topics in Computer Science",
-      "Cancer Biology&nbsp;"
+      "Cancer Biology"
     ]
   },
   {
@@ -14091,10 +14091,10 @@
     "organisation": "Swansea University",
     "programStructure": [
       "Focus on primary research",
-      "Research skills developed through three&nbsp;short modules as you develop your own health informatics&nbsp;research project in the first nine months&nbsp;of the course",
+      "Research skills developed through three short modules as you develop your own health informatics research project in the first nine months of the course",
       "The second year comprises of supervised completion of a research based thesis",
-      "The research project may be undertaken within your own place of work",
-      "The research is supported within an organisation with a strong research&nbsp;reputation and you will have&nbsp;one to one supervision at all stages&nbsp;of the research process",
+      "The research project may be undertaken within your own place of work",
+      "The research is supported within an organisation with a strong research reputation and you will have one to one supervision at all stages of the research process",
       "Through partnerships with National Health Service (NHS) bodies in Wales, we are able to offer a range of research opportunities",
       "Practice-focused learning",
       "You will draw on skills from the broader academic community"
@@ -14191,7 +14191,7 @@
     "organisation": "Uppsala University",
     "programStructure": [
       "The programme consists of four main parts. At first, you and your fellow students may have different backgrounds, and therefore you can choose courses to complete your basic knowledge in computer science and mathematics.",
-      "You can also choose to take core data science courses, for example on data ethics and law, statistical machine learning, the theoretical foundations of data science and data engineering.",
+      "You can also choose to take core data science courses, for example on data ethics and law, statistical machine learning, the theoretical foundations of data science and data engineering.",
       "From the end of the first year, you choose courses within the specialisation data engineering, covering topics such as data mining, distributed computing and security.",
       "The programme also includes practical activities: a project course done at a research lab or in collaboration with students from other programmes, and a master's thesis at a company or research lab."
     ]

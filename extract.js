@@ -1,6 +1,6 @@
 const fs = require('fs').promises;
-const { JSDOM } = require('jsdom');
-const unescape = require('unescape');
+const Entities = require('html-entities').AllHtmlEntities;
+const entities = new Entities();
 
 async function main() {
     const items = await readItemsList();
@@ -46,16 +46,15 @@ async function readMasterProgramHTML(id) {
 }
 
 function extractProgramStructure(html) {
-    const dom = new JSDOM(html);
-    const document = dom.window.document;
-    const studyContents = document.querySelector('article#StudyContents');
-    
-    if (!studyContents) {
+    const match = html.match(/StudyContents(.+?)article>/);
+
+    if (!match) {
         console.log('SKIPPED: BROKEN PAGE');
         return [];
     }
 
-    const matchedLines = studyContents.innerHTML.match(/<li>.+?<\/li>/g);
+    const studyContents = match[1]; 
+    const matchedLines = studyContents.match(/<li>.+?<\/li>/g);
 
     if (matchedLines) {
         const results = [];
@@ -64,8 +63,8 @@ function extractProgramStructure(html) {
             const lineMatch = line.match(/<li>(.+?)<\/li>/);
 
             if (lineMatch) {
-                const cleanLine = unescape(lineMatch[1])
-                    .replace('&nbsp;', ' ')
+                const cleanLine = entities.decode(lineMatch[1])
+                    .replace(/<.+?>/g, '')
                     .trim();
                     
                 results.push( cleanLine );
