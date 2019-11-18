@@ -32,7 +32,7 @@ async function main() {
     }
 
     console.log(`SKIPPED ${skippedCount}`);
-    await fs.writeFile('results/item.json', JSON.stringify(results));
+    await fs.writeFile('results/item.json', JSON.stringify(results, null, 2));
 }
 
 async function readItemsList() {
